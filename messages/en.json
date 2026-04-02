@@ -1,0 +1,187 @@
+{
+  "common": {
+    "brand": "CAPITAL WAY",
+    "a11y": {
+      "openMenu": "Open menu",
+      "closeMenu": "Close menu",
+      "toggleTheme": "Toggle theme (light/dark)"
+    },
+    "nav": {
+      "home": "Home",
+      "about": "About Us",
+      "routes": "Routes & Prices",
+      "cargo": "Cargo Shipping",
+      "terminals": "Our Terminals",
+      "contact": "Contact",
+      "localeSwitch": "Switch to Portuguese",
+      "localeSwitchAria": "Change site language to Portuguese",
+      "contactCta": "Contact us"
+    },
+    "hero": {
+      "kicker": "Capital Way · Maputo · Maxixe · Chimoio · Tete",
+      "badge": "Affordable luxury transport",
+      "title": "We Connect Destinations with Safety and Trust!",
+      "subtitle": "Travelling well doesn't have to be expensive.",
+      "routesCta": "See routes & prices",
+      "secondaryCta": "Support line",
+      "whatsappAria": "Open WhatsApp chat",
+      "whatsappText": "Hello Capital Way!",
+      "follow": "Follow",
+      "pill1": "Passengers",
+      "pill2": "Cargo & parcels",
+      "pill3": "4 terminals",
+      "pill4": "Comfort & Starlink"
+    },
+    "comfort": {
+      "badge": "Onboard",
+      "title": "Onboard Comfort",
+      "subtitle": "Everything you need for a perfect journey",
+      "mini": {
+        "phone": "Phone",
+        "usb": "USB",
+        "wind": "Air",
+        "tv": "TV",
+        "radio": "Radio",
+        "coffee": "Coffee",
+        "wifi": "Wi-Fi",
+        "bath": "Restroom"
+      },
+      "cards": {
+        "c1": {
+          "title": "We Guarantee Comfort on Every Journey!",
+          "subtitle": "",
+          "description": "At Capital Way, your onboard experience is our priority."
+        },
+        "c2": {
+          "title": "Reclining Seats",
+          "subtitle": "And super comfortable",
+          "description": "Zhongtong reclining seats with padded headrest."
+        },
+        "c3": {
+          "title": "Air Conditioning",
+          "subtitle": "On the bus and at the terminals",
+          "description": "Full climate control throughout your journey and at terminal waiting areas."
+        },
+        "c4": {
+          "title": "Television",
+          "subtitle": "Keeping you entertained during the journey",
+          "description": "Onboard TV screen for your entertainment."
+        },
+        "c5": {
+          "title": "USB + Starlink Wi-Fi",
+          "subtitle": "Stay always connected",
+          "description": "Charge your phone via USB and browse the internet with onboard Starlink Wi-Fi."
+        },
+        "c6": {
+          "title": "We're Waiting For You!",
+          "subtitle": "",
+          "description": "All onboard services for your perfect journey."
+        }
+      }
+    },
+    "about": {
+      "title": "About Us",
+      "kicker": "Who we are",
+      "quoteLabel": "What drives us",
+      "quoteMainLine1": "Travelling is more than going from one point",
+      "quoteMainLine2": "to another.",
+      "quoteBeat1": "It's trust.",
+      "quoteBeat2": "It's feeling safe.",
+      "quoteBeat3": "It's knowing you'll arrive.",
+      "intro": "Capital Way is a road transport operator linking Maputo, Maxixe, Chimoio and Tete with regular passenger service, parcel shipping and in-person support at our terminals. Every journey is built around real safety, onboard comfort and fair pricing — from tickets to cargo, with the same standard throughout.",
+      "passengersTitle": "Passenger transport",
+      "passengersText": "We run scheduled connections between major cities in central and southern Mozambique, with ground teams and coaches designed for long-distance travel. Our goal is boarding and alighting that feels simple, safe and dependable.",
+      "cargoTitle": "Parcels and freight",
+      "cargoText": "We move consignments with clear per-route pricing (per kg and by volume where applicable), aligned to coach schedules and support through terminal contacts. It's the logistics arm of the same network you trust to travel.",
+      "networkTitle": "Network and terminals",
+      "networkText": "We're present in Malanga (Maputo), N1 (Maxixe), EN6 at Praça dos Trabalhadores (Chimoio) and Matema (Tete). Each site is a sales, information and help desk — air-conditioned waiting areas consistent with the onboard comfort we promise.",
+      "experienceTitle": "Onboard comfort and tech",
+      "experienceText": "Our fleet features Zhongtong reclining seats, air conditioning, onboard TV entertainment, USB charging and Starlink Wi-Fi — whether you need to work, study or rest until you arrive.",
+      "missionTitle": "Mission",
+      "mission": "Deliver safe journeys and shipments with professional service, punctuality and respect for passengers and cargo. Every departure is planned to reduce surprises and reinforce trust in our brand.",
+      "visionTitle": "Vision",
+      "vision": "To be a national reference in intercity coach travel by combining safety, a modern onboard experience and efficient links between provincial capitals and strategic towns across Mozambique — growing sustainably and staying close to communities.",
+      "statsTitle": "Our network in numbers",
+      "stats": {
+        "citiesValue": "4",
+        "citiesLabel": "cities with a Capital Way terminal",
+        "routesValue": "7",
+        "routesLabel": "regular passenger routes",
+        "supportValue": "20 kg",
+        "supportLabel": "free baggage allowance per passenger"
+      },
+      "valuesTitle": "Our values",
+      "values": {
+        "safety": "Safety",
+        "comfort": "Comfort",
+        "punctuality": "Punctuality",
+        "fairPrice": "Fair price"
+      },
+      "valuesDesc": {
+        "safety": "Rigorous maintenance, responsible driving and processes that protect people and goods.",
+        "comfort": "Space, climate control, seating and services that respect long-distance travel.",
+        "punctuality": "Reliable timetables and clear communication on departures and arrivals.",
+        "fairPrice": "Transparent fares — for tickets, excess baggage and cargo."
+      }
+    },
+    "routes": {
+      "eyebrow": "Tickets",
+      "title": "Routes & Prices",
+      "columns": {
+        "route": "Route",
+        "ticket": "Ticket",
+        "excess": "Excess/kg"
+      },
+      "note": "Each passenger gets 20kg of free luggage allowance."
+    },
+    "cargo": {
+      "eyebrow": "Logistics",
+      "title": "Safe Shipping at the Best Price!",
+      "subtitle": "Send your package with full confidence to Maxixe, Chimoio and Tete with Capital Way!",
+      "columns": {
+        "route": "Route",
+        "perKg": "Per KG",
+        "perCm3": "Per cm3",
+        "minPrice": "Min Price"
+      }
+    },
+    "terminals": {
+      "title": "Our Terminals",
+      "subtitle": "Official addresses and direct contacts in each city — reach us before or after your trip.",
+      "addressLabel": "Location",
+      "phoneLabel": "Phone"
+    },
+    "contact": {
+      "title": "Contact",
+      "eyebrow": "Get in touch",
+      "intro": "Reach us by phone, email or the form below — tell us how we can help.",
+      "support": "Support Line",
+      "supportLead": "Use these for tickets, cargo or general enquiries.",
+      "form": {
+        "name": "Name",
+        "email": "Email",
+        "message": "Message",
+        "namePlaceholder": "Your name",
+        "emailPlaceholder": "name@example.com",
+        "messagePlaceholder": "How can we help?",
+        "phoneHint": "Phone",
+        "emailHint": "Email",
+        "imageAlt": "Coach on the road",
+        "imageCaption": "Your message reaches our team",
+        "send": "Send message",
+        "sending": "Sending..."
+      },
+      "success": "Message sent successfully!",
+      "error": "Error sending. Please try again."
+    },
+    "footer": {
+      "slogan": "Your Safety Comes First",
+      "quickLinks": "Quick Links",
+      "contact": "Contact",
+      "social": "Social",
+      "instagram": "@capitalwaytransporte",
+      "instagramAria": "Capital Way on Instagram",
+      "copyright": "© 2026 Capital Way. All rights reserved."
+    }
+  }
+}
