@@ -88,19 +88,19 @@
       "quoteBeat1": "It's trust.",
       "quoteBeat2": "It's feeling safe.",
       "quoteBeat3": "It's knowing you'll arrive.",
-      "intro": "Capital Way is a road transport operator linking Maputo, Maxixe, Chimoio and Tete with regular passenger service, parcel shipping and in-person support at our terminals. Every journey is built around real safety, onboard comfort and fair pricing — from tickets to cargo, with the same standard throughout.",
+      "intro": "Capital Way is a road transport operator linking Maputo, Maxixe, Chimoio and Tete with regular passenger service, parcel shipping and in-person support at our terminals. Every journey is built around real safety, onboard comfort and fair pricing from tickets to cargo, with the same standard throughout.",
       "passengersTitle": "Passenger transport",
       "passengersText": "We run scheduled connections between major cities in central and southern Mozambique, with ground teams and coaches designed for long-distance travel. Our goal is boarding and alighting that feels simple, safe and dependable.",
       "cargoTitle": "Parcels and freight",
       "cargoText": "We move consignments with clear per-route pricing (per kg and by volume where applicable), aligned to coach schedules and support through terminal contacts. It's the logistics arm of the same network you trust to travel.",
       "networkTitle": "Network and terminals",
-      "networkText": "We're present in Malanga (Maputo), N1 (Maxixe), EN6 at Praça dos Trabalhadores (Chimoio) and Matema (Tete). Each site is a sales, information and help desk — air-conditioned waiting areas consistent with the onboard comfort we promise.",
+      "networkText": "We're present in Malanga (Maputo), N1 (Maxixe), EN6 at Praça dos Trabalhadores (Chimoio) and Matema (Tete). Each site is a sales, information and help desk air-conditioned waiting areas consistent with the onboard comfort we promise.",
       "experienceTitle": "Onboard comfort and tech",
-      "experienceText": "Our fleet features Zhongtong reclining seats, air conditioning, onboard TV entertainment, USB charging and Starlink Wi-Fi — whether you need to work, study or rest until you arrive.",
+      "experienceText": "Our fleet features Zhongtong reclining seats, air conditioning, onboard TV entertainment, USB charging and Starlink Wi-Fi whether you need to work, study or rest until you arrive.",
       "missionTitle": "Mission",
       "mission": "Deliver safe journeys and shipments with professional service, punctuality and respect for passengers and cargo. Every departure is planned to reduce surprises and reinforce trust in our brand.",
       "visionTitle": "Vision",
-      "vision": "To be a national reference in intercity coach travel by combining safety, a modern onboard experience and efficient links between provincial capitals and strategic towns across Mozambique — growing sustainably and staying close to communities.",
+      "vision": "To be a national reference in intercity coach travel by combining safety, a modern onboard experience and efficient links between provincial capitals and strategic towns across Mozambique growing sustainably and staying close to communities.",
       "statsTitle": "Our network in numbers",
       "stats": {
         "citiesValue": "4",
@@ -121,7 +121,7 @@
         "safety": "Rigorous maintenance, responsible driving and processes that protect people and goods.",
         "comfort": "Space, climate control, seating and services that respect long-distance travel.",
         "punctuality": "Reliable timetables and clear communication on departures and arrivals.",
-        "fairPrice": "Transparent fares — for tickets, excess baggage and cargo."
+        "fairPrice": "Transparent fares for tickets, excess baggage and cargo."
       }
     },
     "routes": {
@@ -147,14 +147,14 @@
     },
     "terminals": {
       "title": "Our Terminals",
-      "subtitle": "Official addresses and direct contacts in each city — reach us before or after your trip.",
+      "subtitle": "Official addresses and direct contacts in each city reach us before or after your trip.",
       "addressLabel": "Location",
       "phoneLabel": "Phone"
     },
     "contact": {
       "title": "Contact",
       "eyebrow": "Get in touch",
-      "intro": "Reach us by phone, email or the form below — tell us how we can help.",
+      "intro": "Reach us by phone, email or the form below tell us how we can help.",
       "support": "Support Line",
       "supportLead": "Use these for tickets, cargo or general enquiries.",
       "form": {

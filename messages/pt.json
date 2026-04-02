@@ -88,19 +88,19 @@
       "quoteBeat1": "É confiar.",
       "quoteBeat2": "É sentir-se seguro.",
       "quoteBeat3": "É saber que chegará.",
-      "intro": "A Capital Way é uma operadora de transporte rodoviário que liga Maputo, Maxixe, Chimoio e Tete com serviço regular de passageiros, encomendas e apoio presencial nos nossos terminais. Construímos cada viagem em torno de segurança real, conforto a bordo e preços justos — do bilhete ao envio de carga, com a mesma exigência.",
+      "intro": "A Capital Way é uma operadora de transporte rodoviário que liga Maputo, Maxixe, Chimoio e Tete com serviço regular de passageiros, encomendas e apoio presencial nos nossos terminais. Construímos cada viagem em torno de segurança real, conforto a bordo e preços justos do bilhete ao envio de carga, com a mesma exigência.",
       "passengersTitle": "Transporte de passageiros",
       "passengersText": "Oferecemos ligações diárias entre as principais cidades do centro e sul do país, com horários organizados, equipas no terreno e autocarros pensados para viagens longas. O nosso objetivo é que embarque e desembarque sejam simples, seguros e previsíveis.",
       "cargoTitle": "Encomendas e carga",
       "cargoText": "Transportamos encomendas e volumes com tabelas claras por rota (por kg e por volume quando aplicável), prazos alinhados aos nossos horários de autocarro e acompanhamento através dos contactos dos terminais. É a extensão logística da mesma rede em que confia para viajar.",
       "networkTitle": "Rede e terminais",
-      "networkText": "Estamos presentes em Malanga (Maputo), N1 (Maxixe), EN6 na Praça dos Trabalhadores (Chimoio) e Matema (Tete). Cada terminal é ponto de venda, informação e apoio — ar condicionado nas salas de espera, alinhado com o padrão de conforto que prometemos a bordo.",
+      "networkText": "Estamos presentes em Malanga (Maputo), N1 (Maxixe), EN6 na Praça dos Trabalhadores (Chimoio) e Matema (Tete). Cada terminal é ponto de venda, informação e apoio ar condicionado nas salas de espera, alinhado com o padrão de conforto que prometemos a bordo.",
       "experienceTitle": "Conforto e tecnologia a bordo",
-      "experienceText": "Equipamos a frota com assentos reclináveis Zhongtong, ar condicionado, entretenimento com ecrã de televisão, USB para carregar dispositivos e internet Starlink em viagem — para quem precisa trabalhar, estudar ou apenas relaxar até ao destino.",
+      "experienceText": "Equipamos a frota com assentos reclináveis Zhongtong, ar condicionado, entretenimento com ecrã de televisão, USB para carregar dispositivos e internet Starlink em viagem para quem precisa trabalhar, estudar ou apenas relaxar até ao destino.",
       "missionTitle": "Missão",
       "mission": "Garantir viagens e envios seguros, com atendimento profissional, pontualidade e respeito pelo passageiro e pela mercadoria. Cada saída é planeada para minimizar imprevistos e maximizar a confiança na nossa marca.",
       "visionTitle": "Visão",
-      "vision": "Ser referência nacional em transporte rodoviário interurbano combinando segurança, modernidade a bordo e ligação eficiente entre capitais e vilas estratégicas de Moçambique — com uma rede que cresce de forma sustentável e próxima das comunidades.",
+      "vision": "Ser referência nacional em transporte rodoviário interurbano combinando segurança, modernidade a bordo e ligação eficiente entre capitais e vilas estratégicas de Moçambique com uma rede que cresce de forma sustentável e próxima das comunidades.",
       "statsTitle": "A nossa rede em números",
       "stats": {
         "citiesValue": "4",
@@ -121,7 +121,7 @@
         "safety": "Manutenção rigorosa, condução responsável e processos pensados para proteger passageiros e mercadorias.",
         "comfort": "Espaço, climatização, assentos e serviços a bordo que dignificam viagens longas.",
         "punctuality": "Horários respeitados e comunicação clara nas partidas e chegadas.",
-        "fairPrice": "Tabelas transparentes — no bilhete, no excesso de bagagem e no transporte de carga."
+        "fairPrice": "Tabelas transparentes no bilhete, no excesso de bagagem e no transporte de carga."
       }
     },
     "routes": {
@@ -147,14 +147,14 @@
     },
     "terminals": {
       "title": "Os nossos terminais",
-      "subtitle": "Moradas oficiais e contactos diretos de cada cidade — fale connosco antes ou depois da sua viagem.",
+      "subtitle": "Moradas oficiais e contactos diretos de cada cidade fale connosco antes ou depois da sua viagem.",
       "addressLabel": "Localização",
       "phoneLabel": "Telefone"
     },
     "contact": {
       "title": "Contacto",
       "eyebrow": "Fale connosco",
-      "intro": "A nossa equipa responde por telefone, email ou através do formulário — diga-nos como podemos ajudar.",
+      "intro": "A nossa equipa responde por telefone, email ou através do formulário diga-nos como podemos ajudar.",
       "support": "Linha de apoio",
       "supportLead": "Utilize estes contactos para bilhetes, carga ou informações gerais.",
       "form": {
